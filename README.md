@@ -8,7 +8,7 @@ You should not use it for production. Not all filesystem functions are implement
 ## Prerequisites
 
 - [Rust] 1.56
-- [meson] 0.59
+- [meson] 0.60
 
 [Rust]: https://www.rust-lang.org/
 [meson]: https://mesonbuild.com/
