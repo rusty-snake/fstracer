@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 project('fstracer', 'rust', 'c',
   license: 'GPL-3.0-or-later',
   meson_version: '>=0.59.0',

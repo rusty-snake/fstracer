@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
 /*
  * fstracer - A filesystem-tracer
  * Copyright © 2021 rusty-snake
